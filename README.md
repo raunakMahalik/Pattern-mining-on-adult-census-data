@@ -3,9 +3,9 @@
 ## Introduction:
 In this project I have captured the frequent patterns existing in the 'Adult census data'. To achieve this I have implemented 3 frequent pattern mining algorithms :
 
-### i.) Apriori algorithm
-### i.i) Improved Apriori with sampling
-### ii.) FP- Growth algorithm
+### i) Apriori algorithm
+### ii) Improved Apriori with sampling
+### ii) FP- Growth algorithm
 
 The above mentioned algorithms i.e. Apriori and FP-growth algorithms, are popular in finding frequent itemset patterns in transactional data. In this project along with implementing the Apriori and FP-Growth algorithms I have Implemented a variation of Apriori with sampling. This variation improves the speed of the algorithm while yielding similar results.
 
